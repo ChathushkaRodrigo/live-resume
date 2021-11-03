@@ -1,11 +1,14 @@
 /* Dialog container */
 .dialog-container {
   z-index: 2;
+  margin-left: 500px;
   margin-top: 5em;
+
   animation: float-dialog 6s ease-in-out infinite;
 }
 
 .dialog-container img {
+  margin-right: 500px;
   width: 580px;
 
   margin-left: -29em;
