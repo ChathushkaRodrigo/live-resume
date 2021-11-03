@@ -16,9 +16,9 @@
 }
 
 .layer_one .avatar-container .illustration {
-  margin-left: 150px;
+  margin-left: 200px;
   margin-top: 200px;
-  height: 580px;
+  height: 78%;
   z-index: 1;
   position: relative;
 }
