@@ -5,14 +5,13 @@
 export const environment = {
   production: false,
   firebaseConfig: {
-    apiKey: "AIzaSyC2frVRAAltsVTmdwgFnATGHoVUzNHfzsM",
-    authDomain: "live-resume-a575a.firebaseapp.com",
-    databaseURL: "https://live-resume-a575a.firebaseio.com",
-    projectId: "live-resume-a575a",
-    storageBucket: "live-resume-a575a.appspot.com",
-    messagingSenderId: "681076751855",
-    appId: "1:681076751855:web:18bae3866ebfcc4fcd8a1a",
-    measurementId: "G-00VXD77WNG"
+    apiKey: "AIzaSyBxnWdecIA3xYGO-Qbmjid86KMLoZ1MGNs",
+    authDomain: "chathushkarodrigo-a2d96.firebaseapp.com",
+    projectId: "chathushkarodrigo-a2d96",
+    storageBucket: "chathushkarodrigo-a2d96.appspot.com",
+    messagingSenderId: "707094264985",
+    appId: "1:707094264985:web:22d101ce4deee0b0eb8c08",
+    measurementId: "G-YJWYM0VZ8X"
   }
 };
 

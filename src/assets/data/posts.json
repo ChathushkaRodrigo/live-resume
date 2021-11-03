@@ -10,7 +10,7 @@
                 "description": "Have you ever thought about the <b>mathematical relation</b> between the <i>columns</i> and <i>rows</i> of a bidimensional array <i>(2d matrix)</i>? This data structure hides a <b>data location formula</b> that helped me to avoid the <i>time complexity of O(n²)</i>, which is a terrible scenario, turning it into a <i>constant time complexity - O(1)</i>. A full explanation, with real test cases and Unit Tests are waiting for you."
             },
             {
-                "language": "pt",
+                "language": "sn",
                 "title": "A fórmula de matriz 2D anti-deslocamento.",
                 "description": "Você já pensou na <b>relação matemática</b> entre as<i> colunas</i> e as <i>linhas</i> de uma matriz bidimensional <i>(matriz 2d)</i>? Essa estrutura de dados oculta uma <b>fórmula de localização de dados</b> que me ajudou a evitar a <i>complexidade de tempo de O(n²)</i>, que é um cenário péssimo, transformando-a em uma <i>complexidade do tempo constante - O(1)</i>. Uma explicação completa, com casos de teste reais e testes de unidade, está esperando por você."
             }
@@ -27,7 +27,7 @@
                 "description": "There were numerous vacancies for <i>web developers</i> on the wall, at the same time, <b>12.7 million people were unemployed</b> in Brazil, such a sad situation persisted in my mind. Back at my house, I've recalled a free course, offered by the renowned <i>Bob Tabor (Senior Program Manager at Microsoft)</i>, present at Microsoft Virtual Academy."
             },
             {
-                "language": "pt",
+                "language": "sn",
                 "title": "Em 2019, saia do desemprego! Seja você um Web Developer.",
                 "description": "Lá estavam no mural, inúmeras vagas para desenvolvedor web. E ao mesmo tempo, haviam <b>12,7 Milhões de compatriotas desempregados</b> e tais vagas em aberto ficaram matutando em minha cabeça. De volta à minha casa, me recordo de um curso gratuito, disponibilizado pelo renomado <i>Bob Tabor (Senior Program Manager na Microsoft)</i>, presente na Microsoft Virtual Academy."
             }
@@ -44,7 +44,7 @@
                 "description": "For great user experience, the usage of maps together with the ordered list is used very often in mobile applications. This article presents an open-source application for Android that provides a fully functional component."
             },
             {
-                "language": "pt",
+                "language": "sn",
                 "title": "Navegação por Item no Mapa para Android - <i>Componente de código aberto</i>.",
                 "description": "Para uma ótima experiência do usuário, o uso de mapas junto com a lista ordenada é usado com muita frequência em aplicativos móveis. Este artigo apresenta um aplicativo de código aberto para Android que fornece um componente totalmente funcional."
             }
@@ -61,7 +61,7 @@
                 "description": "Nowadays, <b>geolocation</b> is essential for most of the basic daily activities. Who never have asked Google where is the closest market?  In this article, I show a practical example of how to create a <i>SQL Query</i> that does a geolocational search based on a radius range and a fixed geolocational point."
             },
             {
-                "language": "pt",
+                "language": "sn",
                 "title": "Pesquisa por distância geográfica com MySQL e PHP.",
                 "description": "Atualmente, a <b>geolocalização</b> é essencial para a maioria das atividades diárias básicas. Quem nunca perguntou ao Google onde está o mercado mais próximo? Neste artigo, mostro um exemplo prático de como criar uma <i>consulta SQL</i> a qual faz uma pesquisa geolocalizada com base em um raio de abrangência e um ponto geográfico fixo."
             }
@@ -78,7 +78,7 @@
                 "description": "With the appliance of the email security policy on the <i>Web 2.0</i> came the need to take measures that would hinder the practice of <i>spamming</i>, among the measures taken,  it is the use of authenticated e-mail, which means that for each e-mail sent, we would have the <i>signature</i> of the host who sent it, thus, there would be greater control over who, eventually, practice the spamming. In this article, I show you how to send the authenticate e-mail, increasing the chances of your email get read by the target user."
             },
             {
-                "language": "pt",
+                "language": "sn",
                 "title": "Envio de e-mail autenticado em PHP.",
                 "description": "Com a aplicação da política de segurança de email na <i>Web 2.0</i>, surgiu a necessidade de tomar medidas que dificultassem a prática do <i>spamming</i>, entre as medidas adotadas, está o uso de e-mail autenticado, o que significa que, para cada e-mail enviado, teríamos a <i>assinatura</i> do host que o enviou, assim, haveria maior controle sobre quem, eventualmente, praticasse o spam. Neste artigo, mostrarei como enviar o email de autenticação, aumentando as chances de seu email ser lido pelo usuário de destino."
             }

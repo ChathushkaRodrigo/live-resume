@@ -9,7 +9,7 @@
         "logo": "../../assets/template/experience/logo/plague.png",
         "internationalizations": [
             {
-                "language": "pt",
+                "language": "sn",
                 "city": "Uberaba",
                 "country": "Brasil",
                 "role": "Estágio Webmaster",
@@ -40,7 +40,7 @@
         "logo": "../../assets/template/experience/logo/lcsliit.png",
         "internationalizations": [
             {
-                "language": "pt",
+                "language": "sn",
                 "city": "Colombo",
                 "country": "Sri Lanka",
                 "role": "Desenvolvedor Full-stack",
