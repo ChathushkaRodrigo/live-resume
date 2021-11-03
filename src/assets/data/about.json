@@ -6,7 +6,7 @@
         },
         {
             "language": "en",
-            "description": " I am Chathushka Rodrigo a Software Engineering undergraduate.what inspires me most is that creating an application from one line of code and render that to major service to community knowing my application be of proper service "
+            "description": " I am a Software Engineering undergraduate at Curtin University and from Sri Lanka 🇱🇰 .I have been developing applications since 2017 as Web Developer and still pursuing devloping web applications with passion and motive. What inspires me most is that creating a service that will render a huge benefit to the community . Meanwhile im still learning Software Engineering principles and concepts as a 3rd year undergraduate and keeping myself up to date with modern day technologies. Im more well intrigued about Cryptography and its applications . Currently im learning 'Solidity' to be Blockchain Core Developer near possible future"
         }
     ],
     "medias": [        
@@ -38,10 +38,7 @@
         {
             "icon": "suitcase-rolling",
             "title": "Travel"
-        },
-        {
-            "icon": "book",
-            "title": "Read"
         }
+       
     ]
 }

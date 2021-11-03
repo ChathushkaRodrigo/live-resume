@@ -7,7 +7,7 @@
             {
                 "language": "en",
                 "title": "Zoo Melaka Management System",
-                "description": "Have you ever thought about the <b>mathematical relation</b> between the <i>columns</i> and <i>rows</i> of a bidimensional array <i>(2d matrix)</i>? This data structure hides a <b>data location formula</b> that helped me to avoid the <i>time complexity of O(n²)</i>, which is a terrible scenario, turning it into a <i>constant time complexity - O(1)</i>. A full explanation, with real test cases and Unit Tests are waiting for you."
+                "description": " <b> Melaka Zoo </b> was in need of a <b> Management System </b> to procure thier day to day work to be done on an online platform where visitors and working staff can engage in activities in an online portal based manner. Developed using <b> M.E.R.N </b> stack technology <br><br> <b>MERN JIRA GITHUB </b> "
             },
             {
                 "language": "sn",
