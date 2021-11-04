@@ -3,6 +3,7 @@ export const environment = {
   firebaseConfig: {
     apiKey: "AIzaSyBxnWdecIA3xYGO-Qbmjid86KMLoZ1MGNs",
     authDomain: "chathushkarodrigo-a2d96.firebaseapp.com",
+    databaseURL: "https://chathushkarodrigo-a2d96-default-rtdb.firebaseio.com/",
     projectId: "chathushkarodrigo-a2d96",
     storageBucket: "chathushkarodrigo-a2d96.appspot.com",
     messagingSenderId: "707094264985",
