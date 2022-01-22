@@ -1,5 +1,22 @@
 [
     {
+        "thumbnail": "../../assets/posts/tesla-clone.png",
+        "http": "https://chathushkarodrigo.github.io/Tesla-Clone-React/",
+        "date": "01-18-2022",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "Tesla Front-End Clone",
+                "description": "Tesla front end developed using ReactJs and Material UI styling . Deployed and hosted on Github Webpages to preview. Tesla is mostly focused on cars hence to market and preview thier products in an elegant manner. Procured with inline styling taking UI to the next level"
+            },
+            {
+                "language": "sn",
+                "title": "Em 2019, saia do desemprego! Seja você um Web Developer.",
+                "description": "Lá estavam no mural, inúmeras vagas para desenvolvedor web. E ao mesmo tempo, haviam <b>12,7 Milhões de compatriotas desempregados</b> e tais vagas em aberto ficaram matutando em minha cabeça. De volta à minha casa, me recordo de um curso gratuito, disponibilizado pelo renomado <i>Bob Tabor (Senior Program Manager na Microsoft)</i>, presente na Microsoft Virtual Academy."
+            }
+        ]
+    }
+    ,{
         "thumbnail": "../../assets/posts/zoomelaka.png",
         "http": "https://github.com/ChathushkaRodrigo/ZooMelaka-Management-System",
         "date": "06-10-2021",
